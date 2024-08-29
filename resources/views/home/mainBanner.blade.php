@@ -11,10 +11,10 @@
                         harum. Officiis, inventore quas.</p>
                     <div class="buttons">
                         <div class="border-button">
-                            <a href="explore.html">Explore Top Books</a>
+                            <a href="explore.html">Lorem ipsum dolor sit </a>
                         </div>
                         <div class="main-button">
-                            <a href="" target="_blank">Watch Our Videos</a>
+                            <a href="" target="_blank">Lorem, ipsum dolor sit amet </a>
                         </div>
                     </div>
                 </div>
@@ -26,6 +26,12 @@
                     </div>
                     <div class="item">
                         <img src="assets/images/banner2.png" alt="">
+                    </div>
+                    <div class="item">
+
+                    </div>
+                    <div class="item">
+
                     </div>
                 </div>
             </div>

@@ -27,6 +27,8 @@
     <!-- ***** Footer ***** -->
     @include('home.footer')
 
+    @include('home.script')
+
 
 
 
