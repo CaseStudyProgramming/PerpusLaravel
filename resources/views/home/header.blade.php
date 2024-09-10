@@ -33,9 +33,13 @@
                         @if (Route::has('login'))
                             <nav class="-mx-3 flex flex-1 justify-end">
                                 @auth
-                                    <li><a href="{{ route('register') }}">Log Out</a></li>
+                                    <li>
+                                        <x-app-layout>
+
+                                        </x-app-layout>
+                                    </li>
                                 @else
-                                    <li><a href="{{ route('login') }}">Login</a></li>
+                                    <li><a href="{{ route('login') }}">Logi</a></li>
 
 
                                     @if (Route::has('register'))
